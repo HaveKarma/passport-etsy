@@ -1,0 +1,23 @@
+{
+  "name": "passport-etsy",
+  "version": "0.0.1",
+  "description": "Etsy authentication strategy for Passport.",
+  "keywords": [
+    "passport",
+    "etsy",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "author": {
+    "name": "Beichen Fan"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "passport-oauth1": "1.x.x"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  }
+}
